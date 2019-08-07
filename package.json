@@ -1,0 +1,16 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpServer.js",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node httpServer.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
